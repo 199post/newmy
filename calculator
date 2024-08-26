@@ -95,7 +95,7 @@
             try {
                 document.getElementById('result').value = eval(document.getElementById('result').value);
             } catch (e) {
-                alert('Ошибка: некорректное выражение');
+                alert('Ошибка: некорректное111111 выражение');
                 clearScreen();
             }
         }
