@@ -36,7 +36,7 @@
             font-size: 18px;
             margin: 5px 1%;
             border: 1px solid #ccc;
-            border-radius: 115px;
+            border-radius: 1150px;
             cursor: pointer;
             background-color: #e0e0e0;
         }
